@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Footprints)(type KiCad)(uri C:/Users/lfgab/Documents/Keyboards/Footprints.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri C:/Users/lfgab/Documents/GitHub/Type-C.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri "C:/Program Files/KiCad/Libs/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+)
