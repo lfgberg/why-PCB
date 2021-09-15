@@ -8,7 +8,7 @@ PCB designed for the why 1-key gasket mounted macropad, payment was never made, 
 
 ![Back](https://i.imgur.com/NbJ1qqy.png)
 
-## Contribution
+## Contributing
 
 I don't plan on finishing this, you can feel free!
 
