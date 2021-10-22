@@ -1,3 +1,4 @@
+# This has not yet been tested, and firmware has not yet been pushed to qmk/via, pcb may or may not function as intended
 # Why PCB
 
 PCB designed for the why 1-key gasket mounted macropad, payment was never made, I never finished, now it's here! This needs decoupling caps added because I forgot them. It hasn't been produced or tested.
