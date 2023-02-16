@@ -17,6 +17,11 @@ I don't plan on finishing this, you can feel free!
 
 Download the [latest release of the production files](https://github.com/lfgberg/maya-mini-pcb/releases), and submit them to a PCB manufacturer like JLCPCB or PCBWay.
 
+## Author
+[Lfgberg](https://github.com/lfgberg)
+<br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lfgberg)
+
 ## License
 [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
